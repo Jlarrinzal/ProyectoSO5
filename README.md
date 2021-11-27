@@ -1,7 +1,7 @@
 Versión 1 
-generada por Cristian
-verificada por Ainhoa
-comunicada por Jose
+-generada por Cristian
+-verificada por Ainhoa
+-comunicada por Jose
 
 Version 2
 
